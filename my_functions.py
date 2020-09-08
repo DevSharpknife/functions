@@ -1,7 +1,8 @@
 def greet():
-    return "Hey" 
+    print("Hey") 
 
 greeting = greet() # ADDED
 print(greeting) # ADDED
 
 # => Hey
+# => None
