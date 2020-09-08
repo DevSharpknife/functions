@@ -1,6 +1,4 @@
 def greet():
-    print("Hey")
+    return "Hey" # MODIFIED
 
-
-greet()
-# ADDED
+# => Hey
